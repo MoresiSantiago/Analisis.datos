@@ -7,7 +7,7 @@
 ## 
 
 ¡Bienvenidos, mi nombre es Santiago Moresi! 
-En este reposiotrio vas a poder encontrar mi proyecto de  ***`Data Analyst`***. Dejo mi mail santiagomoresi@gmail.com para cualquier consulta. 
+En este reposiotrio vas a poder encontrar mi proyecto de   ***`Data Analyst`***. Dejo mi mail santiagomoresi@gmail.com para cualquier consulta. 
 ## 
 Este proyecto consta de una ***analsis de telecomunicaciones*** (telefonía, la televisión, la radio y, más recientemente, el internet). Se va a realizar un ***`Analsis exploatrorio de los datos (EDA)`*** acompañado de un ***`Dashboard`*** para una mejor visualizacion de los datos. 
 
