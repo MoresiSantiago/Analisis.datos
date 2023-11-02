@@ -12,7 +12,8 @@
 Este proyecto se centra en el análisis de las telecomunicaciones, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
 
 ## <h1 align="center">**` EDA `**</h1>
-A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes** , **duplicados** o **valores atípicos (outliers)** . No obstante, durante el análisis, no identificamos ninguna anomalía de ningún tipo.  
+A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes** , **duplicados** o **valores atípicos (outliers)** . 
+- No obstante, durante el análisis, no identificamos ninguna anomalía de ningún tipo.  
 
 
 ## <h1 align="center">**` KPI'S `**</h1>
