@@ -6,14 +6,13 @@
 
 ## 
 
-¡Bienvenidos, mi nombre es Santiago Moresi! 
-En este reposiotrio vas a poder encontrar mi proyecto de  ***`Data Analyst`***. Dejo mi mail santiagomoresi@gmail.com para cualquier consulta. 
 
-Este proyecto consta de una ***analsis de telecomunicaciones*** (telefonía, la televisión, la radio y, más recientemente, el internet). Se va a realizar un ***`Analsis exploatrorio de los datos (EDA)`*** acompañado de un ***`Dashboard`*** para una mejor visualizacion de los datos. 
+¡Bienvenidos! Mi nombre es Santiago Moresi. En este repositorio, encontrarás mi proyecto de  ***`Analista de Datos`*** . Si tienes alguna pregunta o consulta, no dudes en escribirme a santiagomoresi@gmail.com .
 
+Este proyecto se centra en el análisis de las telecomunicaciones, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
 
 ## <h1 align="center">**` EDA `**</h1>
-Atraves del archivo " Penetracion de internet fijo (acceso por cada 100 hogares) ", se realizo un   ***`Analisis Exploratorio de los Datos (EDA)`***. En busca de algun tipo de anomalia en de forma de **dato faltante** - **dato duplicado** - **dato atipico (outliears)**. Y no se encontro niguna anomalia de ningun tipo.  
+A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes** , **duplicados** o **valores atípicos (outliers)** . No obstante, durante el análisis, no identificamos ninguna anomalía de ningún tipo.  
 
 
 ## <h1 align="center">**` KPI'S `**</h1>
