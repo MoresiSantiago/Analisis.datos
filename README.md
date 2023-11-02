@@ -49,4 +49,7 @@ En conlusion de encontro: que para que haya un aumento del 50% tiene a ver un au
 
 En el archivo llamado **Servicio de Internet de Power BI**, se ha creado un panel interactivo que permite visualizar y filtrar la información de una provincia específica con tan solo hacer clic en ella. Esto permite observar la ubicación y el número de accesos a Internet desde los años 2014 hasta 2022 de manera sencilla.
 
+
+Luego vas a poder ver los graficos de los **KPI'S**, al ser una captura de pantalla no se logra que sea interativo. 
+![Captura de pantalla 2023-11-02 103339](https://github.com/MoresiSantiago/Analisis.datos/assets/144374156/0a1cf817-2bda-4f9d-b75d-08cb8a85e2f9)
 ##
