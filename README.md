@@ -9,7 +9,7 @@
 
 ¡Bienvenidos! Mi nombre es Santiago Moresi. En este repositorio, encontrarás mi proyecto de  ***`Analista de Datos`*** . Si tienes alguna pregunta o consulta, no dudes en escribirme a santiagomoresi@gmail.com .
 
-Este proyecto se centra en el análisis de las telecomunicaciones, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
+Este proyecto se centra en el análisis de las telecomunicaciones en Argentina, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
 
 ## <h1 align="center">**` EDA `**</h1>
 A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes**, **duplicados** o **valores atípicos (outliers)** . 
