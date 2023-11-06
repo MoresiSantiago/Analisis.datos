@@ -9,13 +9,12 @@
 
 ¡Bienvenidos! Mi nombre es Santiago Moresi. En este repositorio, encontrarás mi proyecto de  ***`Analista de Datos`*** . Si tienes alguna pregunta o consulta, no dudes en escribirme a santiagomoresi@gmail.com .
 
-Este proyecto se centra en el análisis de las telecomunicaciones en Argentina, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
+Este proyecto se centra en el análisis de las telecomunicaciones, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
 
 ## <h1 align="center">**` EDA `**</h1>
-A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes**, **duplicados** o **valores atípicos (outliers)** . 
-- No obstante, durante el análisis, no identificamos ninguna anomalía de ningún tipo.
+A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes** , **duplicados** o **valores atípicos (outliers)** .
+- No obstante, durante el análisis, no identificamos ninguna anomalía de ningún tipo.  
 - Se puede interpretar de manera **cualitativa**, ya que al no detectarse anomalías en todo el proceso de **Análisis Exploratorio de Datos (EDA)**, se deduce que la respuesta es de naturaleza **nominal**, indicando que no existen errores aparentes.
-
 
 ## <h1 align="center">**` KPI'S `**</h1>
 <p align='center'>
@@ -35,7 +34,9 @@ La fórmula es la siguiente:
 - **`Nuevo acceso`** se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 - **`Acceso actual`** se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conclusión, se ha determinado que para lograr un aumento del 2% en el acceso al servicio de internet, es necesario incrementar el promedio en cada provincia en un 4,32% de servicio de internet.
+En conlusion se encontro:  Según lo establecido en la consigna, al aplicar un aumento del 2% para el próximo trimestre, se proyecta que el acceso a Internet aumentará a un total de 3313.42, lo que representa una mejora en la calidad del servicio.
+
+
 
 ***2º)*** Aumentar un 50% el acceso al servicio de internet para el proximo trimestre, cada 100 hogares, por provincia. La idea es aumentar la mitad de lo que ya habia. 
 La fórmula es la siguiente:
@@ -45,13 +46,13 @@ La fórmula es la siguiente:
 - "Nueva mitad" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 - "Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conclusión, se ha identificado que, para lograr un incremento del 50%, es necesario que se produzca un aumento promedio de 108% en servicios de internet en cada provincia.
+En conlusion se encontro: Según la proyección de un aumento del 50% para el próximo trimestre, se espera que el acceso a Internet aumente significativamente, alcanzando un total de 82835.5, lo que representa una mejora notable en la calidad del servicio.
 
 ## <h1 align="center">**` DASHBOARD `**</h1>
 
-En el archivo llamado **Servicio de Internet de Power BI**, se ha creado un panel interactivo que permite visualizar y filtrar la información de una provincia específica con tan solo hacer clic en ella. Esto permite observar la ubicación y el número de accesos a Internet desde los años 2014 hasta 2022 de manera sencilla.
+En el archivo llamado **'Servicio de Internet de Power BI'**, se ha creado un panel interactivo que permite visualizar y filtrar la información de una provincia específica con tan solo hacer clic en ella. Esto permite observar la ubicación y el número de accesos a Internet desde los años 2014 hasta 2022 de manera sencilla.
+
+También se generaron gráficos que representan los KPI's presentados. Los gráficos se encuentran en el archivo llamado **'Gráficos de los KPI'**. En este archivo, encontrará tres gráficos: el primero refleja el KPI propuesto en el enunciado (Aumento del 2%), el segundo muestra el KPI que propone (Aumento del 50%), y finalmente, el tercer gráfico compara ambos KPI, destacando las diferencias entre un aumento del 2% y un aumento del 50%.
 
 
-Luego vas a poder ver los graficos de los **KPI'S**, al ser una captura de pantalla no se logra que sea interativo. Clickenado la imagen se agranda. 
-![Captura de pantalla 2023-11-02 103339](https://github.com/MoresiSantiago/Analisis.datos/assets/144374156/0a1cf817-2bda-4f9d-b75d-08cb8a85e2f9)
 ##
