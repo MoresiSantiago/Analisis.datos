@@ -35,7 +35,7 @@ La fórmula es la siguiente:
 - **`Nuevo acceso`** se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 - **`Acceso actual`** se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conlusion se encontro: Lo que tiene que suceder para que haya un aumento del 2% al acceso al servicio de internet es que se aumento de promedio de 4.32 por provincia.
+En conclusión, se ha determinado que para lograr un aumento del 2% en el acceso al servicio de internet, es necesario incrementar el promedio en cada provincia en un 4,32% de servicio de internet.
 
 ***2º)*** Aumentar un 50% el acceso al servicio de internet para el proximo trimestre, cada 100 hogares, por provincia. La idea es aumentar la mitad de lo que ya habia. 
 La fórmula es la siguiente:
@@ -45,7 +45,7 @@ La fórmula es la siguiente:
 - "Nueva mitad" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 - "Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conlusion de encontro: que para que haya un aumento del 50% tiene a ver un auemnto de promedio de 108 por provincia.
+En conclusión, se ha identificado que, para lograr un incremento del 50%, es necesario que se produzca un aumento promedio de 108% en servicios de internet en cada provincia.
 
 ## <h1 align="center">**` DASHBOARD `**</h1>
 
