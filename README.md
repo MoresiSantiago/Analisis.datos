@@ -62,7 +62,6 @@ En conclusión, se ha determinado que, según la proyección de un aumento del 1
 
 En el archivo llamado **'Servicio de Internet de Power BI'**, se ha creado un panel interactivo que permite visualizar y filtrar la información de una provincia específica con tan solo hacer clic en ella. Esto permite observar la ubicación y el número de accesos a Internet desde los años 2014 hasta 2022 de manera sencilla.
 
-También se generaron gráficos que representan los KPI's presentados. Los gráficos se encuentran en el archivo llamado **'Gráficos de los KPI'**. En este archivo, encontrará cuatro gráficos: el primero refleja el KPI propuesto en el enunciado (Aumento del 2%), el segundo muestra el KPI que propone (Aumento del 50%), luego el tercero (Aumento del 100%) y finalmente, el cuatro gráfico comparando los tres KPI, destacando las diferencias entre un aumento del 2%, el aumento del 50% y el aumento del 100%. 
-
+Se han generado gráficos representativos de los KPI presentados, los cuales están disponibles en el archivo titulado **'Gráficos de los KPI'**. Este archivo contiene cuatro gráficos distintos: el primero refleja el KPI propuesto en el enunciado, que implica un aumento del 2%; el segundo muestra el KPI propuesto con un incremento del 50%; el tercer gráfico presenta un aumento del 100%; y, por último, el cuarto gráfico realiza una comparación entre los tres KPI, resaltando las diferencias entre un aumento del 2%, un aumento del 50% y un aumento del 100%.
 
 ##
