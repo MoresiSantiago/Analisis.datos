@@ -56,7 +56,7 @@ La fórmula es la siguiente:
 - **`Aumento 100%`** se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 - **`Acceso actual`**  se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conclusión, se ha determinado que, según la proyección de un aumento del 100% para el próximo trimestre, se espera que el acceso a Internet experimente un cambio notable, lo que resultaría en un aumento significativo en los números, alcanzando un total de 1657%. Esto representaría un incremento en la prestación del servicio en todo el país.
+En conclusión, se ha determinado que, según la proyección de un aumento del 100% para el próximo trimestre, se espera que el acceso a Internet experimente un cambio notable, lo que resultaría en un aumento significativo en los números, alcanzando un total de 1657% .Esto representaría un incremento en la prestación del servicio en todo el país.
 
 ## <h1 align="center">**` DASHBOARD `**</h1>
 
