@@ -24,7 +24,7 @@ A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 1
 #### ¿Que es KPI'S?
  - Los ***KPI's*** son métricas o medidas específicas que se utilizan para evaluar y medir el rendimiento o el éxito de una organización, un proyecto, un proceso o incluso un individuo en el logro de sus objetivos y metas.
 
-#### Se realizaron 2 KPI'S:
+#### Se realizaron 3 KPI'S:
 
 ***1º)*** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
 La fórmula es la siguiente:
