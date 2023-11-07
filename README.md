@@ -26,7 +26,7 @@ A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 1
 
 #### Se realizaron 3 KPI'S:
 
-***1º)*** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
+***1º)*** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
 La fórmula es la siguiente:
 
  ***KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100***
