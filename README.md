@@ -9,7 +9,7 @@
 
 ¡Bienvenidos! Mi nombre es Santiago Moresi. En este repositorio, encontrarás mi proyecto de  ***`Analista de Datos`*** . Si tienes alguna pregunta o consulta, no dudes en escribirme a santiagomoresi@gmail.com .
 
-Este proyecto se centra en el análisis de las telecomunicaciones, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información.
+Este proyecto se centra en el análisis de las telecomunicaciones, a compartir la telefonía, la televisión, la radio y, más recientemente, el Internet. Realizaré un  ***`Análisis Exploratorio de Datos (EDA)`*** y proporcionaré un ***`Dashboard`*** para una visualización más efectiva de la información. Los datos fueron extradios del siguiente [Datasets](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/).
 
 ## <h1 align="center">**` EDA `**</h1>
 A través del archivo titulado "Penetración de Internet Fijo (acceso por cada 100 hogares)", llevamos a cabo un detallado **Análisis Exploratorio de Datos (EDA)** . Nuestra principal finalidad fue detectar posibles anomalías, tales como **datos faltantes** , **duplicados** o **valores atípicos (outliers)** .
@@ -34,25 +34,35 @@ La fórmula es la siguiente:
 - **`Nuevo acceso`** se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 - **`Acceso actual`** se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conlusion se encontro:  Según lo establecido en la consigna, al aplicar un aumento del 2% para el próximo trimestre, se proyecta que el acceso a Internet aumentará a un total de 3313.42, lo que representa una mejora en la calidad del servicio.
-
+En conlusion, según lo establecido en la consigna, al aplicar un aumento del 2% para el próximo trimestre, se proyecta que el acceso a Internet aumentará a un total de 33.14%.
 
 
 ***2º)*** Aumentar un 50% el acceso al servicio de internet para el proximo trimestre, cada 100 hogares, por provincia. La idea es aumentar la mitad de lo que ya habia. 
 La fórmula es la siguiente:
 
-***KPI = ((nuevamitad - accesoactual)/accesoactual) * 100***
+***KPI = ((Nueva mitad - Acceso actual)/Acceso actual) * 100***
 
-- "Nueva mitad" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
-- "Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
+- **`Nueva mitad`** se refiere al número de hogares con acceso a Internet después del próximo trimestre.
+- **`Acceso actual`**  se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
-En conlusion se encontro: Según la proyección de un aumento del 50% para el próximo trimestre, se espera que el acceso a Internet aumente significativamente, alcanzando un total de 82835.5, lo que representa una mejora notable en la calidad del servicio.
+En conlusion, según la proyección de un aumento del 50% para el próximo trimestre, se espera que el acceso a Internet aumente significativamente, alcanzando un total de 828.5%, lo que representa una mejora notable en la calidad del servicio.
+
+
+***3º)*** Aumentar un 100% el acceso al servicio de internet para el proximo trimestre, cada 100 hogares, por provincia. 
+La fórmula es la siguiente:
+
+***KPI = ((Aumento 100% - Acceso actual)/Acceso actual) * 100***
+
+- **`Aumento 100%`** se refiere al número de hogares con acceso a Internet después del próximo trimestre.
+- **`Acceso actual`**  se refiere al número de hogares con acceso a Internet en el trimestre actual.
+
+En conclusión, se ha determinado que, según la proyección de un aumento del 100% para el próximo trimestre, se espera que el acceso a Internet experimente un cambio notable, lo que resultaría en un aumento significativo en los números, alcanzando un total de 1657%. Esto representaría un incremento en la prestación del servicio en todo el país.
 
 ## <h1 align="center">**` DASHBOARD `**</h1>
 
 En el archivo llamado **'Servicio de Internet de Power BI'**, se ha creado un panel interactivo que permite visualizar y filtrar la información de una provincia específica con tan solo hacer clic en ella. Esto permite observar la ubicación y el número de accesos a Internet desde los años 2014 hasta 2022 de manera sencilla.
 
-También se generaron gráficos que representan los KPI's presentados. Los gráficos se encuentran en el archivo llamado **'Gráficos de los KPI'**. En este archivo, encontrará tres gráficos: el primero refleja el KPI propuesto en el enunciado (Aumento del 2%), el segundo muestra el KPI que propone (Aumento del 50%), y finalmente, el tercer gráfico compara ambos KPI, destacando las diferencias entre un aumento del 2% y un aumento del 50%.
+También se generaron gráficos que representan los KPI's presentados. Los gráficos se encuentran en el archivo llamado **'Gráficos de los KPI'**. En este archivo, encontrará cuatro gráficos: el primero refleja el KPI propuesto en el enunciado (Aumento del 2%), el segundo muestra el KPI que propone (Aumento del 50%), luego el tercero con (Aumento del 100%) y finalmente, el cuatro gráfico compara ambos KPI, destacando las diferencias entre un aumento del 2% y un aumento del 50%.
 
 
 ##
