@@ -18,8 +18,7 @@ Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Lo
 # <h1 align="center">**EDA**</h1>
 
 <p align='center'>
-<img src="https://kinsta.com/es/wp-content/uploads/sites/8/2017/12/wordpress-graficos-2-1024x512.png
-"  height=200>
+<img src="https://kinsta.com/es/wp-content/uploads/sites/8/2017/12/wordpress-graficos-2-1024x512.png"  height=200>
 <p>
 
 
