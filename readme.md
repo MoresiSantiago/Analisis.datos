@@ -56,7 +56,7 @@ El objetivo de este otro KPI es reducir en un 7% la cantidad de accidentes morta
 
 La evaluación de este objetivo sigue una fórmula similar:
 
-(Número de accidentes mortales con víctimas en auto en el año anterior - Número de accidentes mortales con víctimas en auto en el año actual) / (Número de accidentes mortales con víctimas en auto en el año anterior) * 100
+**(Número de accidentes mortales con víctimas en auto en el año anterior - Número de accidentes mortales con víctimas en auto en el año actual) / (Número de accidentes mortales con víctimas en auto en el año anterior) * 100**
 
 Según esta fórmula, para alcanzar una reducción del 7% en la cantidad de accidentes mortales en automóviles en el último año, sería necesario reducir 11.84 accidentes.
 
